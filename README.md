@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD9FB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Cadore!+%F0%9F%91%8B;Desenvolvedor+Fullstack+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+Sempre+aprendendo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD9FB&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+o+Gustavo+Cadore!+%F0%9F%91%8B;Desenvolvedor+Fullstack+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+Sempre+aprendendo" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
-Sou **Gustavo Cadore da Silva**, desenvolvedor **Fullstack** com foco em **Frontend**. Trabalho na área de desenvolvimento e sigo estudando para crescer cada vez mais como programador. Apaixonado por criar interfaces modernas e APIs robustas!
+Sou **Gustavo Cadore da Silva**, desenvolvedor **Fullstack** com foco em **Frontend**. Trabalho na area de desenvolvimento e sigo estudando para crescer cada vez mais como programador. Apaixonado por criar interfaces modernas e APIs robustas!
 
-- 🔭 Atualmente trabalhando como **Desenvolvedor Frontend**
-- - 📚 Estudando **Fullstack** — do React ao Node.js
-  - - 🌱 Sempre aprendendo tecnologias novas
-    - - 💡 Interessado em boas práticas, performance e UX
-      - - 🇧🇷 Brasileiro, com muito ☕ no sangue
+- Atualmente trabalhando como **Desenvolvedor Frontend**
+- - Estudando **Fullstack** — do React ao Node.js
+  - - Sempre aprendendo tecnologias novas
+    - - Interessado em boas praticas, performance e UX
+      - - Brasileiro, com muito cafe no sangue
        
         - ---
 
-        ### 🛠️ Tecnologias & Ferramentas
+        ### Tecnologias & Ferramentas
 
         <div align="center">
 
@@ -45,7 +45,7 @@ Sou **Gustavo Cadore da Silva**, desenvolvedor **Fullstack** com foco em **Front
 
         ---
 
-        ### 📊 GitHub Stats
+        ### GitHub Stats
 
         <div align="center">
           <img height="170" src="https://github-readme-stats.vercel.app/api?username=GCadore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -58,18 +58,18 @@ Sou **Gustavo Cadore da Silva**, desenvolvedor **Fullstack** com foco em **Front
 
         ---
 
-        ### 🚀 Projetos em Destaque
+        ### Projetos em Destaque
 
-        | Projeto | Descrição | Tecnologia |
+        | Projeto | Descricao | Tecnologia |
         |--------|-----------|------------|
-        | [🚢 BatalhaNaval](https://github.com/GCadore/BatalhaNaval) | Jogo de Batalha Naval implementado em Java | Java |
-        | [🗄️ Simulacao-banco-de-dados](https://github.com/GCadore/Simulacao-banco-de-dados) | Simulação de gerenciamento de banco de dados | C++ |
-        | [🌐 api-node-whatslink](https://github.com/GCadore/api-node-whatslink) | API Node.js para integração com WhatsApp | JavaScript |
-        | [📋 gestao-ocorrencias](https://github.com/GCadore/gestao-ocorrencias) | Sistema de gestão de ocorrências | TypeScript |
+        | [BatalhaNaval](https://github.com/GCadore/BatalhaNaval) | Jogo de Batalha Naval implementado em Java | Java |
+        | [Simulacao-banco-de-dados](https://github.com/GCadore/Simulacao-banco-de-dados) | Simulacao de gerenciamento de banco de dados | C++ |
+        | [api-node-whatslink](https://github.com/GCadore/api-node-whatslink) | API Node.js para integracao com WhatsApp | JavaScript |
+        | [gestao-ocorrencias](https://github.com/GCadore/gestao-ocorrencias) | Sistema de gestao de ocorrencias | TypeScript |
 
         ---
 
-        ### 📫 Contato
+        ### Contato
 
         <div align="center">
 
