@@ -1,84 +1,97 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD9FB&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+o+Gustavo+Cadore!+%F0%9F%91%8B;Desenvolvedor+Fullstack+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+Sempre+aprendendo" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Gustavo%20Cadore&fontSize=60&fontColor=e0f7fa&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20%7C%20Frontend%20%E2%9C%A8&descSize=20&descAlignY=58&descColor=b2ebf2" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&pause=1000&color=00B4D8&background=00000000&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Gustavo+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Sempre+aprendendo+e+evoluindo+%F0%9F%8C%B1;Transformando+ideias+em+interfaces+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### Sobre mim
+<img align="right" width="38%" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
-Sou **Gustavo Cadore da Silva**, desenvolvedor **Fullstack** com foco em **Frontend**. Trabalho na area de desenvolvimento e sigo estudando para crescer cada vez mais como programador. Apaixonado por criar interfaces modernas e APIs robustas!
+### 🌊 Sobre mim
 
-- Atualmente trabalhando como **Desenvolvedor Frontend**
-- - Estudando **Fullstack** — do React ao Node.js
-  - - Sempre aprendendo tecnologias novas
-    - - Interessado em boas praticas, performance e UX
-      - - Brasileiro, com muito cafe no sangue
-       
-        - ---
+Sou **Gustavo Cadore da Silva**, desenvolvedor **Fullstack** com foco em **Frontend**. Trabalho na area de desenvolvimento e sigo estudando para crescer cada vez mais como programador.
 
-        ### Tecnologias & Ferramentas
+- 💼 Trabalhando como **Desenvolvedor Frontend**
+- 📚 Estudando **Fullstack** — React, Node.js e além
+- 🌱 Sempre aprendendo tecnologias novas
+- 💡 Apaixonado por boas interfaces e UX
+- 🇧🇷 Brasileiro com muito ☕ no sangue
 
-        <div align="center">
+<br clear="right"/>
 
-        #### Frontend
-        ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-        ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-        ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-        #### Backend
-        ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-        ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-        ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-        ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🛠️ Stack & Ferramentas
 
-        #### Banco de Dados & Ferramentas
-        ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-        ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-        ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-        ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="center">
 
-        </div>
+**Frontend**
 
-        ---
+![TypeScript](https://img.shields.io/badge/TypeScript-%2300B4D8.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2348CAE4.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2390E0EF.svg?style=for-the-badge&logo=react&logoColor=0077B6)
+![HTML5](https://img.shields.io/badge/HTML5-%230096C7.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%230077B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-        ### GitHub Stats
+**Backend**
 
-        <div align="center">
-          <img height="170" src="https://github-readme-stats.vercel.app/api?username=GCadore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-            <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCadore&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
-        </div>div>
+![Node.js](https://img.shields.io/badge/Node.js-%2306D6A0.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%2300B4D8.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2348CAE4.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%230077B6.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-        <div align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=GCadore&theme=tokyonight&hide_border=true" />
-        </div>div>
+**Banco de Dados & Ferramentas**
 
-        ---
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300B4D8.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%2348CAE4.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%230077B6.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%2390E0EF.svg?style=for-the-badge&logo=visualstudiocode&logoColor=0077B6)
 
-        ### Projetos em Destaque
+</div>
 
-        | Projeto | Descricao | Tecnologia |
-        |--------|-----------|------------|
-        | [BatalhaNaval](https://github.com/GCadore/BatalhaNaval) | Jogo de Batalha Naval implementado em Java | Java |
-        | [Simulacao-banco-de-dados](https://github.com/GCadore/Simulacao-banco-de-dados) | Simulacao de gerenciamento de banco de dados | C++ |
-        | [api-node-whatslink](https://github.com/GCadore/api-node-whatslink) | API Node.js para integracao com WhatsApp | JavaScript |
-        | [gestao-ocorrencias](https://github.com/GCadore/gestao-ocorrencias) | Sistema de gestao de ocorrencias | TypeScript |
+---
 
-        ---
+### 📊 GitHub Stats
 
-        ### Contato
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GCadore&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=48CAE4&text_color=90E0EF&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCadore&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=90E0EF&langs_count=6" />
+</div>
 
-        <div align="center">
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GCadore&theme=react&hide_border=true&background=0d1117&stroke=00B4D8&ring=48CAE4&fire=06D6A0&currStreakNum=90E0EF&sideNums=90E0EF&currStreakLabel=00B4D8&sideLabels=48CAE4&dates=ADE8F4" />
+</div>
 
-        [![GitHub](https://img.shields.io/badge/GitHub-GCadore-181717?style=for-the-badge&logo=github)](https://github.com/GCadore)
+---
 
-        </div>
+### 🚀 Projetos em Destaque
 
-        ---
+<div align="center">
 
-        <div align="center">
-          <img src="https://komarev.com/ghpvc/?username=GCadore&color=6AD9FB&style=flat-square&label=Visitantes" alt="Profile views" />
-        </div>div>
+[![BatalhaNaval](https://github-readme-stats.vercel.app/api/pin/?username=GCadore&repo=BatalhaNaval&theme=react&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=90E0EF&icon_color=48CAE4)](https://github.com/GCadore/BatalhaNaval)
+[![gestao-ocorrencias](https://github-readme-stats.vercel.app/api/pin/?username=GCadore&repo=gestao-ocorrencias&theme=react&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=90E0EF&icon_color=48CAE4)](https://github.com/GCadore/gestao-ocorrencias)
+
+</div>
+
+---
+
+### 📫 Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-GCadore-%2300B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GCadore)
+
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=GCadore&color=00B4D8&style=for-the-badge&label=VISITANTES" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
