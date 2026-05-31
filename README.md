@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=091413,285A48,408A71,B0E4CC&height=180&section=header&text=Gustavo%20Cadore&fontSize=56&fontColor=B0E4CC&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Frontend%20Specialist&descSize=18&descAlignY=58&descColor=408A71" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:091413,100:285A48&height=180&section=header&text=Gustavo%20Cadore&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Frontend%20Specialist&descSize=18&descAlignY=58&descColor=B0E4CC" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=20&pause=1000&color=408A71&center=true&vCenter=true&width=480&lines=Frontend+Developer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
@@ -68,4 +68,4 @@ Trabalho na area de tecnologia e estudo constantemente para crescer como program
 [![BatalhaNaval](https://github-readme-stats.vercel.app/api/pin/?username=GCadore&repo=BatalhaNaval&theme=react&hide_border=true&bg_color=091413&title_color=B0E4CC&text_color=408A71&icon_color=285A48)](https://github.com/GCadore/BatalhaNaval) [![gestao-ocorrencias](https://github-readme-stats.vercel.app/api/pin/?username=GCadore&repo=gestao-ocorrencias&theme=react&hide_border=true&bg_color=091413&title_color=B0E4CC&text_color=408A71&icon_color=285A48)](https://github.com/GCadore/gestao-ocorrencias)
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=091413,285A48,408A71,B0E4CC&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:285A48,100:091413&height=100&section=footer" />
