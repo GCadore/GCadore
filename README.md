@@ -65,8 +65,26 @@ Trabalho na area de tecnologia e estudo constantemente para crescer como program
 ## Projetos
 
 <div align="center">
-<a href="https://github.com/GCadore/BatalhaNaval"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GCadore&repo=BatalhaNaval&theme=react&hide_border=true&bg_color=091413&title_color=B0E4CC&text_color=408A71&icon_color=285A48" /></a>
-<a href="https://github.com/GCadore/gestao-ocorrencias"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GCadore&repo=gestao-ocorrencias&theme=react&hide_border=true&bg_color=091413&title_color=B0E4CC&text_color=408A71&icon_color=285A48" /></a>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/GCadore/BatalhaNaval">
+<img src="https://img.shields.io/badge/BatalhaNaval-285A48?style=for-the-badge&logo=github&logoColor=B0E4CC" /><br/>
+<b>Batalha Naval em Java</b><br/>
+<sub>Java</sub>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/GCadore/gestao-ocorrencias">
+<img src="https://img.shields.io/badge/gestao--ocorrencias-408A71?style=for-the-badge&logo=github&logoColor=B0E4CC" /><br/>
+<b>Gestao de Ocorrencias</b><br/>
+<sub>TypeScript</sub>
+</a>
+</td>
+</tr>
+</table>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:285A48,100:091413&height=100&section=footer" />
